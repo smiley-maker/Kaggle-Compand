@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "kaggle-node": "^1.1.2",
+    "path": "^0.12.7"
+  }
+}
